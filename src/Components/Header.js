@@ -17,7 +17,7 @@ const Header = ({ data }) => {
       );
     });
   }
-
+console.log(data)
   return (
     <header id="home">
       <nav id="nav-wrap">

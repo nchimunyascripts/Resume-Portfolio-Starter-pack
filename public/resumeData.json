@@ -1,45 +1,45 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Joseph Nchimunya",
+    "occupation": "Full-stack Developer | Backend Specialist | Mobile App Developer",
+    "description": "Passionate about building innovative web and mobile solutions that make a meaningful impact.",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "I'm Joseph Matthias Nchimunya, a Full-Stack Developer with expertise in backend programming and mobile app development. I hold a Computer Science degree from Gideons Roberts University and specialize in building scalable applications with technologies like Node.js, Python (Flask), and React, along with experience in MySQL, PostgreSQL, and MongoDB. I also have a strong background in mobile development using Kotlin, Java, and React Native. Currently, I'm working on projects like a Roommate Matching System and an Automated Garden App, utilizing tools like Retrofit, Ktor, Jetpack, and Dagger-Hilt. As a former Teaching Assistant and Backend Developer Tutor, I've mentored students in web and mobile development. Outside of coding, I'm passionate about sound engineering and sharing my knowledge to help others grow in tech.",
+    "contactmessage": "Feel free to reach out! I'm always open to discussing exciting opportunities, collaborations, or sharing insights on tech.",
+    "email": "nchimunya.backlogcode@gmail.com",
+    "phone": "+260 976 624 664",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "123 Ngwerere Road",
+      "city": "Lusaka",
+      "state": "Zambia",
+      "zip": "10101"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://github.com/nchimunyascripts",
+    "resumedownload": "https://docs.google.com/document/d/1taqisqlfo515fbwR78qtLO4HDfkdBLfT26aiKAP72ls/edit?usp=sharing",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "url": "https://www.youtube.com/@xvlll8two370",
         "className": "fa fa-youtube"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://web.facebook.com/joseph.nchimunya.39",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "www.linkedin.com/in/joseph-nchimunya-4aaa54198",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/xvlll8two/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/nchimunyascripts",
         "className": "fa fa-github"
       }
     ]
@@ -48,18 +48,36 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
+        "school": "Gideon Robert University - Zambia",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "graduated": "December 2023",
+        "description": "Graduated with Upper Second Class Honours"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "4Thrifters",
+        "title": "CO - Founder and CTO",
+        "years": "October 2024 - Present",
+        "description": "As Co-Founder and CTO at 4Thrifters, I lead the technical vision and development of the platform, overseeing both front-end and back-end architecture. I build scalable solutions, optimize system performance, and create innovative features to enhance the user experience. Additionally, I work on developing and integrating AI models to drive intelligent features within the platform. My role also includes guiding the team through technical challenges and ensuring seamless collaboration across all technical domains."
+      },
+      {
+        "company": "Upeme Skill Community Training Education",
+        "title": "Computer Skills Trainer",
+        "years": "Febraury 2025 - Present",
+        "description": "I train individuals in Computer Studies and practical applications of software packages like the Windows Office Suite. My goal is to equip students with essential computer skills, enabling them to effectively use software tools for personal and professional tasks."
+      },
+      {
+        "company": "Mukono College/Melzara College",
+        "title": "Computer Science Tutor",
+        "years": "March 2022 - Febraury 2025",
+        "description": "I tutor students in web and mobile development, focusing on backend programming with technologies like Node.js, Python, and database management. I guide students through their learning journey, help with coding challenges, and support practical and theoretical development."
+      },
+      {
+        "company": "Oak University, Lusaka",
+        "title": "Teaching Assistant, Web Development",
+        "years": "January 2020 - December 2020",
+        "description": "I supported instructors in delivering web development courses, assisted students with practical coding sessions, evaluated assignments, and facilitated workshops. I focused on fostering a collaborative learning environment and providing personalized support to help students succeed."
       }
     ],
     "skills": [
@@ -76,46 +94,92 @@
         "level": "70%"
       },
       {
-        "name": "JavaScript",
+        "name": "JavaScript(ES7)",
         "level": "99%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "70%"
       },
       {
         "name": "Web Development",
         "level": "95%"
+      },
+      {
+        "name": "C",
+        "level": "65%"
+      },
+      {
+        "name": "C++",
+        "level": "75%"
+      },
+      {
+        "name": "Java",
+        "level": "85%"
+      },
+      {
+        "name": "Kotlin",
+        "level": "95%"
+      },
+      {
+        "name": "PHP",
+        "level": "55%"
+      },
+      {
+        "name": "SQL(MySQL, PostgreSQL)",
+        "level": "95%"
+      },
+      {
+        "name": "NoSQL(MongoDB)",
+        "level": "90%"
+      },
+      {
+        "name": "MATLAB (for data analysis and tutorials)",
+        "level": "50%"
+      },
+      {
+        "name": "LaTeX(for document preparation and typesetting)",
+        "level": "60%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "title": "AirBnB Clone (React JS)",
+        "category": "Frontend Development",
+        "image": "airbnb.jpg",
+        "url": "https://github.com/nchimunyascripts/AirBnB_clone_v4"
       },
       {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "title": "Auction Marketplace (Python)",
+        "category": "Full-Stack Development",
+        "image": "auction.jpg",
+        "url": "https://github.com/nchimunyascripts/auction-marketplace"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "title": "To-Do List API (Node JS & Express Js)",
+        "category": "Backend Development",
+        "image": "todo.jpg",
+        "url": "https://github.com/nchimunyascripts/node-todo-list"
+      },
+      {
+        "title": "Pong Game(C++)",
+        "category": "Game Development",
+        "image": "pong.jpg",
+        "url": "https://github.com/nchimunyascripts/pong-with-raylib"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Working with Joseph Matthias Nchimunya has been a game-changer for 4Thrifters. As the Co-Founder and CTO, Joseph has consistently demonstrated an exceptional blend of technical expertise, innovative thinking, and leadership. His ability to seamlessly handle both front-end and back-end development, coupled with his work on AI models, has been integral to our platform's success. Beyond his technical prowess, Joseph is a true team player who brings energy, focus, and an unwavering commitment to excellence. I'm grateful for his contributions and excited about what we will continue to achieve together.",
+        "user": "Mwiche Mwiche"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Joseph Matthias Nchimunya has been an invaluable asset to our team at Mukono College. As a Backend Developer and Web & Mobile App Development Tutor, he demonstrated not only a deep technical proficiency but also an exceptional ability to communicate complex concepts to students with ease. His dedication to fostering a positive learning environment and providing hands-on support has had a lasting impact on many students. Joseph’s passion for teaching, coupled with his expertise in backend technologies, has truly set him apart as a leader in the tech education space. I am confident that Joseph will continue to achieve great things in his career.",
+        "user": "Prof. Ibrahim Olanyia"
       }
     ]
   }

@@ -1,57 +1,76 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+# Joseph Matthias Nchimunya - Portfolio
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
+Welcome to my personal portfolio website built with **React.js**! This portfolio showcases my skills, experience, projects, and ways to get in touch with me.
 
-### <a href="https://669e9d080c86fb1064954aae--soft-begonia-4eba06.netlify.app/">LIVE DEMO</a>
+## 🏠 Home
+Based in **Lusaka, Zambia**, I am a **Full-Stack Developer, Backend Specialist, and Mobile App Developer**. Passionate about building innovative web and mobile solutions that create a meaningful impact.
 
-## Resume Starter Pack Description
+## 👨‍💻 About Me
+I'm **Joseph Matthias Nchimunya**, a Full-Stack Developer with expertise in backend programming and mobile app development. I hold a **Bachelor’s Degree in Computer Science** from **Gideons Roberts University**. My expertise includes developing scalable applications with **Node.js, Python (Flask), and React**, along with **MySQL, PostgreSQL, and MongoDB**. I also specialize in mobile development using **Kotlin, Java, and React Native**.
 
-This portfolio starter pack is made using React. The data on the portfolio is directly linked to a JSON file. Any changes to the portfolio can be made in the JSON file. The changes will then be reflected on to the portfolio. This allows you to customize your own personal portfolio that can be used for applying to jobs or other personal uses.
+### 🏗️ Current Projects:
+- **Roommate Matching System**
+- **Automated Garden App** (Using Retrofit, Ktor, Jetpack, and Dagger-Hilt)
 
-## 1. Make sure you have NODE installed!
+As a **former Teaching Assistant** and **Backend Developer Tutor**, I enjoy mentoring students in **web and mobile development**. Additionally, I have a strong passion for **sound engineering** and sharing my knowledge to help others grow in tech.
 
-Firstly, you will need to download the latest version of Node by <a href="https://nodejs.org/en/download/">CLICKING HERE</a>
+## 📜 Resume
 
-## 2. Clone the repo!
+### 🎓 Education
+- **Gideon Robert University - Zambia**
+  - **Bachelor's Degree in Computer Science**
+  - **Graduated with Upper Second Class Honours (December 2023)**
 
-Next, you will need to run the following command in the Terminal to clone the repo onto your machine.
+### 💼 Work Experience
+- **4Thrifters** - Co-Founder & CTO *(October 2024 - Present)*
+  - Leading technical vision, architecture, and AI model integration.
+  - Building scalable front-end and back-end solutions.
+  - Optimizing system performance and user experience.
 
-`git clone https://github.com/sonnysangha/Resume-Portfolio-Starter-pack.git`
+- **Upeme Skill Community Training Education** - Computer Skills Trainer *(February 2025 - Present)*
+  - Training individuals in **computer studies** and practical applications of software tools.
 
-## 3. Install Dependancies
+- **Mukono College/Melzara College** - Computer Science Tutor *(September 2023 - February 2025)*
+  - Teaching **backend programming**, **database management**, **web, and mobile development**.
+  - Helping students solve coding challenges and build real-world applications.
 
-Next, you need to install all the dependancies using:
+- **Oak University, Lusaka** - Teaching Assistant, Web Development *(Dates to be added)*
+  - Assisted in delivering **web development courses**, **evaluating assignments**, and **mentoring students**.
 
-`npm install`
+## 🚀 Skills
 
-Once this is done, you can start the app with:
+### Programming Languages & Technologies:
+- **Frontend:** React.js, JavaScript (ES7), TypeScript
+- **Backend:** Node.js, Python (Flask, Django), PHP
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Mobile Development:** Kotlin, Java, React Native
+- **Other Tools:** Git, MATLAB, LaTeX
 
-`npm start`
+## 💼 Portfolio - My Work
 
-## 4. Fill in your personal info
+| Project | Category | Tech Stack | Link |
+|---------|----------|-----------|------|
+| **AirBnB Clone** | Frontend Development | React.js | [GitHub](https://github.com/nchimunyascripts/AirBnB_clone_v4) |
+| **Auction Marketplace** | Full-Stack Development | Python, Flask, PostgreSQL | [GitHub](https://github.com/nchimunyascripts/auction-marketplace) |
+| **To-Do List API** | Backend Development | Node.js, Express.js, MongoDB | [GitHub](https://github.com/nchimunyascripts/node-todo-list) |
+| **Pong Game** | Game Development | C++, Raylib | [GitHub](https://github.com/nchimunyascripts/pong-with-raylib) |
 
-To populate the website with all of your own data, open the public/resumeData.json file and simply replace the data in there with your own. Images for the porfolio section are to be put in the public/images/portfolio folder.
+## 🏆 Testimonials
 
-## 5. (OPTIONAL) Replacing images and/or fonts
+> *"Working with Joseph Matthias Nchimunya has been a game-changer for 4Thrifters. His technical expertise, innovative mindset, and leadership have helped shape the platform. He is a true team player with an unwavering commitment to excellence."*  
+> — **Mwiche Mwiche**
 
-If you want to display your own pictures then you have to replace the files at these locations: public/images/header-background.jpg, public/images/testimonials-bg.jpg and public/favicon.ico. FILE NAMES MUST NOT BE CHANGED else the code referencing these images will no longer work.
+> *"Joseph has been an invaluable tutor at Mukono College. His deep technical knowledge, mentorship, and ability to explain complex concepts have had a significant impact on students. His dedication to tech education is commendable."*  
+> — **Prof. Ibrahim Olanyia**
 
-## 7. Finalising Resume
+## 📬 Contact
 
-Once all the formatting and data input is finalised, run `npm run build`. This will create a dedicated build folder.
+📍 **Joseph Nchimunya**  
+📍 **123 Ngwerere Road, Lusaka, Zambia 10101**  
+📞 **+260 976 624 664**  
+📧 **nchimunya.backlogcode@gmail.com**  
 
-## 8. Host Resume Online
+## 📄 Download Resume
+[Click Here](#) *(Update with actual resume link)*
 
-1. Open the build folder in the finder screen
-2. Go to <a href="https://www.netlify.com/">Netlify</a> and set up a profile
-3. Go to the 'Sites Tab'
-4. Simply Drag and drop the 'Build' Folder into the designated upload space
-5. The app will begin deploying & the deployment URL will be presented!
-
-🚀 BOOM, you are now LIVE!!!
-
-## Credits
-
-##### Original Idea
-
-<a href="https://github.com/tbakerx/react-resume-template/blob/master/README.md">Inspiration from Tim Baker (tbakerx)</a>
+## 🛠️ Made by **BACKLOGCODE**
