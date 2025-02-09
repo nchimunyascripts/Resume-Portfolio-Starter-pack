@@ -1,5 +1,9 @@
 # Joseph Matthias Nchimunya - Portfolio
 
+![BACKLOGCODE React JS Portfolio](resume-screenshot.png?raw=true "BACKLOGCODE React JS Portfolio")
+
+### <a href="https://nchimunya.netlify.app">LIVE</a>
+
 Welcome to my personal portfolio website built with **React.js**! This portfolio showcases my skills, experience, projects, and ways to get in touch with me.
 
 ## 🏠 Home
